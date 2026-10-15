@@ -1,0 +1,34 @@
+Doctor Name: Dr. Rajesh Sharma
+Age: 45
+Experience: 18 years
+Specialization: Cardiology
+Department: Cardiology
+Problems Treated: Heart disease, chest pain, hypertension, coronary artery disease
+Qualification: MBBS, MD, DM Cardiology
+Hospital: City Care Hospital
+Available Days: Monday, Wednesday, Friday
+Consultation Fee: 1200 INR
+
+
+Doctor Name: Dr. Neha Verma
+Age: 39
+Experience: 12 years
+Specialization: Dermatology
+Department: Skin
+Problems Treated: Acne, eczema, psoriasis, skin allergy, hair loss
+Qualification: MBBS, MD Dermatology
+Hospital: City Care Hospital
+Available Days: Tuesday, Thursday, Saturday
+Consultation Fee: 900 INR
+
+
+Doctor Name: Dr. Amit Kumar
+Age: 51
+Experience: 24 years
+Specialization: ENT
+Department: ENT
+Problems Treated: Ear infection, sinusitis, hearing problems, throat infection
+Qualification: MBBS, MS ENT
+Hospital: City Care Hospital
+Available Days: Monday, Tuesday, Thursday
+Consultation Fee: 1000 INR

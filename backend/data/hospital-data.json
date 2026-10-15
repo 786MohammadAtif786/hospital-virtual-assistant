@@ -1,0 +1,5 @@
+[
+  { "id": "opd-timing", "category": "timings", "text": "OPD timings: Monday to Saturday, 9:00 AM to 5:00 PM. Sunday OPD is closed; emergency services are available 24x7." },
+  { "id": "cardio-dept", "category": "departments", "text": "Cardiology department is on the 2nd floor. Consultation fee is Rs 800. Appointments can be booked at the front desk or by phone." },
+  { "id": "emergency", "category": "services", "text": "Emergency ward is on the ground floor and open 24 hours a day, 7 days a week. Ambulance service is available." }
+]
